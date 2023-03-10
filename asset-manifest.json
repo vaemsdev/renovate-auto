@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/renovate-auto/static/css/main.02590c41.css",
+    "main.js": "/renovate-auto/static/js/main.d562786a.js",
+    "static/js/787.ce4aa89e.chunk.js": "/renovate-auto/static/js/787.ce4aa89e.chunk.js",
+    "index.html": "/renovate-auto/index.html",
+    "main.02590c41.css.map": "/renovate-auto/static/css/main.02590c41.css.map",
+    "main.d562786a.js.map": "/renovate-auto/static/js/main.d562786a.js.map",
+    "787.ce4aa89e.chunk.js.map": "/renovate-auto/static/js/787.ce4aa89e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02590c41.css",
+    "static/js/main.d562786a.js"
+  ]
+}
